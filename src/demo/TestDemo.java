@@ -15,4 +15,5 @@ public static void substract(int a,int b) {
 	
 	//my name is Simaa Altmimi
 }
+	//came from GitHub
 }
